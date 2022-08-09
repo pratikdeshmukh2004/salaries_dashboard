@@ -1,0 +1,7 @@
+DBNAME=myname
+DBHOST=myhost
+DBPASS=mypass
+DBPORT=myport
+DBUSER=myuser
+DBCLIENT=myclient
+NODE_ENV=myenv
