@@ -10,7 +10,7 @@ app.get("/", (req, res) => {
   res.send({ status: "success" });
 });
 
-const port = process.env.PORT || 8010;
+const port = process.env.PORT || 5000;
 app.listen(port, () => {
   console.log(`Your app is listening on http://localhost:${port}`);
 });
